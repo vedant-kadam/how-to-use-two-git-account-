@@ -12,7 +12,7 @@ instruction guide
 5-  to access that repo 
     copy the ssh link url
     then use 
-    git clone git@github."name you gave":repo link
+    git clone git@"name you gave in host config".com:repo link
     
     
     
